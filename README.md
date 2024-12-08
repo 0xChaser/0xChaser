@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 0xChaser</h1>
-<h3 align="center">FullStack Developer - CEO of ChaserCorporation</h3>
+<h2 align="center">FullStack Developer - CEO of ChaserCorp</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xchaser&label=Profile%20views&color=0e75b6&style=flat" alt="0xchaser" /> </p>
 
