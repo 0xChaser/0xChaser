@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xchaser&label=Profile%20views&color=0e75b6&style=flat" alt="0xchaser" /> </p>
 
-- You can see most of my project on my personal website [Chaser Website](https://flo-isk.fr)
+- You can see most of my project on my personal website [Chaser Website](https://flo-isk.fr) (Soon responsive Redesign !)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
