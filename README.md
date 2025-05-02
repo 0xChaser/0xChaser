@@ -7,7 +7,7 @@ Fullstack Developer - CEO of ChaserCorp
 Working every day for improving my skills
 
 * 🌍  I'm based in Paris
-* 🖥️  See my portfolio at [0xChaser](http://flo-isk.Fr)
+* 🖥️  See my portfolio at [0xChaser](http://flo-isk.fr/en)
 * ✉️  You can contact me at [contact@chasercorporation.com](mailto:contact@chasercorporation.com)
 * 🤝  I'm open to collaborating on Awesome projects
 * ⚡  Enjoying the development journey !
